@@ -1,3 +1,4 @@
+package RandomCF;
 import java.util.Scanner;
 public class spydetect {
     public static void main(String[] args) {
