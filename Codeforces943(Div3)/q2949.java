@@ -15,11 +15,14 @@ public class q2949 {
         int ans = 0;
         
         for (int i = 31; i >= 0; --i) {
-            if ((left & (1L << i)) != 0 || (right & (1L << i)) != 0 || (left >> (i + 1)) != (right >> (i + 1))) {
-                ans |= (1L << i);
-            }
+            // have to check bits
+            // the idea is to check the bits of max(n-m,0) and n+m, starting from the most significant bit, and 
+            // for bits with the same bit just do 2 to that power multiplied by the bit, 
+            // but if the bits are not same then multiply by 2 to that power for the rest of the bits.                  
+                
         }
         return ans;
+
         // << is the bitwise shift operator
     }
 }
