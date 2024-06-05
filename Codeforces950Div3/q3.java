@@ -29,8 +29,10 @@ public class q3 {
         
     }
     public static void cExist(int n, int[] as, int[] bs, int m, int[] ds){
-        
+        System.out.println(n+" "+ m+" "+as[0]+ " "+ bs[0]);
 
+
+    
     }
 
 }
