@@ -1,4 +1,4 @@
-package Codeforces951Div2;
+package CodeforcesRound951Div2;
 import java.util.Scanner;
 
 public class q1 {
