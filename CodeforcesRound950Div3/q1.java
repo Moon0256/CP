@@ -1,4 +1,4 @@
-package Codeforces950Div3;
+package CodeforcesRound950Div3;
 import java.lang.Math;
 import java.util.Scanner;
 public class q1 {

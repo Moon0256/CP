@@ -1,4 +1,4 @@
-package Codeforces950Div3;
+package CodeforcesRound950Div3;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.Scanner;
