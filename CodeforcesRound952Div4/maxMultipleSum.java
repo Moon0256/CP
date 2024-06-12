@@ -6,21 +6,14 @@ public class maxMultipleSum {
         Scanner input = new Scanner(System.in);
         int testcases = input.nextInt();
         for(int g = 0; g<testcases;g++){
-            int n = input.nextInt();
-            int opx = 2;
-            int maxSum = 0;
-
-            for (int x = 2; x <= n; x++) {
-                int k = n/x;
-                int sum = x*k*(k+1)/2;
-
-                if (sum > maxSum) {
-                    maxSum = sum;
-                    opx = x;
-                }
+            int x = input.nextInt();
+            if(x==3){
+                System.out.println(3);
+            }else{
+                System.out.println(2);
             }
 
-            System.out.println(opx);
+            
         }
     }
     
