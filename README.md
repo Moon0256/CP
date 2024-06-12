@@ -10,6 +10,10 @@ This repo contains my solutions to Codeforces problems.
 This is my profile: [panned](https://codeforces.com/profile/panned)
 ![panned](rc7.png)
 
+This is my ratings graph (I will try to keep it updated as much as possible, but visit [panned](https://codeforces.com/profile/panned) for a more up-to-date version.)
+
+![graph](image.png)
+
 
 ## Languages
 
