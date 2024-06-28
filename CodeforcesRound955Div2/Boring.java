@@ -1,6 +1,7 @@
+package CodeforcesRound955Div2;
 import java.util.Scanner;
 
-public class q1 {
+public class Boring {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int t = input.nextInt();
@@ -8,5 +9,4 @@ public class q1 {
             
         }
     }
-    
 }
