@@ -1,4 +1,4 @@
-package ProblemsetPracJava;
+package ProblemsetJava;
 import java.util.Scanner;
 
 public class SubstringSubsequence{
