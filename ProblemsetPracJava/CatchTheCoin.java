@@ -1,4 +1,4 @@
-package ProblemsetPrac;
+package ProblemsetPracJava;
 import java.util.Scanner;
 
 public class CatchTheCoin {
