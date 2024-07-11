@@ -10,6 +10,12 @@ int main(){
     int t;
     cin >> t;
     while (t--){
-        
+        int n, m, k;
+        cin >> n >> m >> k;
+        string s;
+        cin >> s;
+        for(int i =0; i<m; i++){
+            
+        }
     }
 }
