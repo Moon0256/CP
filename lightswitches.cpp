@@ -13,10 +13,3 @@ int main(){
         
     }
 }
-
-
-
-// A base C++ code, just copy paste for Competitive Programming
-// To run it, in terminal:
-// g++ filename.cpp
-// ./a.out
