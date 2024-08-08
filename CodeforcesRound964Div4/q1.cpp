@@ -10,7 +10,8 @@ int main(){
     int t;
     cin >> t;
     while (t--){
-        int n,k;
-        cin >> n >> k;
+        int n;
+        cin >> n;
+        cout << (n/10)+(n%10) << "\n";
     }
 }
