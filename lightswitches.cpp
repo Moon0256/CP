@@ -1,7 +1,7 @@
-#include <bits/stdc++.h>
-using namespace std;
-
-typedef long long ll;
+// #include <bits/stdc++.h>
+// using namespace std;
+#include <iostream>
+//typedef long long ll;
 
 #define YES cout << "YES\n"
 #define NO cout << "NO\n"
